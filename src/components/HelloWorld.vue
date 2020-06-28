@@ -1,11 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <p>主分支</p>
-
-    <p>
-      主分支
-    </p>
+    <p>我是主分支</p>
   </div>
 </template>
 
