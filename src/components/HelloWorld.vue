@@ -2,6 +2,10 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>我是主分支</p>
+    <p>开发dev分支</p>
+    <div>
+        <p>dev内容</p>
+    </div>
   </div>
 </template>
 
